@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Fact Checker",
+  "description": "A web application that acts as a real-time fact checker, determining if news is real, fake, or unverified using the Gemini API with Google Search grounding.",
+  "requestFramePermissions": []
+}
